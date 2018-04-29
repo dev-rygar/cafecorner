@@ -35,6 +35,9 @@ header.startup hr {
 header.startup h1 {
   font-size: 3rem; 
   color:rgba(0,0,0, 0.8 );
+}
+
+h1, .btn {
   display: flex;
   justify-content: center;
 }
@@ -46,8 +49,6 @@ header.startup h1 {
   font-family: 'Montserrat', sans-serif;
   /*margin-left: 42%;
   margin-right: 42%*/
-  display: flex;
-  justify-content: center;
 }
 
 .btn-xl {

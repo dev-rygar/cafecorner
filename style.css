@@ -42,9 +42,10 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
-  margin-left: 42%;
-  margin-right: 42%
-
+  /*margin-left: 42%;
+  margin-right: 42%*/
+  display: flex;
+  justify-content: center;
 }
 
 .btn-xl {
